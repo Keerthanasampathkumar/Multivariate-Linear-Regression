@@ -22,6 +22,8 @@ Print the parameters of the linear function.
 
 ## Program:
 ```
+Developed by: KEERTHANA S
+RegisterNumber: 22009006
 import pandas as pd
 from sklearn import linear_model
 df=pd.read_csv("cars.csv")
